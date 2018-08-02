@@ -2,8 +2,9 @@
 Custom Dynamic Stamp Installation 02/08/2018
 By Joey Koh
 ---------------------------------
+Uses in-built javascript to implement.
 
-For all versions of Adobe Acrobat (Pro XI, Adobe Reader DC) as Adobe Acrobat
+For all versions of Adobe Acrobat (Pro XI, Adobe Reader DC).
 
 Note:
 - If you are a first time user of Adobe Acrobat and/or of the 'Stamps' feature of Adobe Acrobat,
